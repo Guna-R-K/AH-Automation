@@ -1,0 +1,24 @@
+spdental1 48011
+spdental2 48008
+spdental3 48024
+====================Optical===========================================
+spoptical1 80144
+spoptical2 80241
+spoptical3 80322
+====================Consultation======================================
+spconsultation1 58052
+spconsultation2 62227 
+spconsultation3 502000
+=====================Dialysis=========================================
+spdialysis1 501612
+spdialysis2 50326
+spdialysis3 506280
+=====================Maternity========================================
+spmaternity1 1809621
+spmaternity2 181963
+====================Pathology=========================================
+sppathology1 30015
+sppathology2 30052
+sppathology3 293401
+====================Referance SP=======================================
+refspoptical 80357

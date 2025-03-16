@@ -1,0 +1,14 @@
+memberid 3200003176N-2
+claimclosedate 12-03-2024
+claimreceiveddate 14-03-2024
+sp 48008
+icd K14
+grosscharge 19
+ahfoz 98621
+treamentdate 12-03-2024
+op Outpatient Treatment
+
+servfee1 19
+quantity 1
+
+override This Claim is not an duplicate.

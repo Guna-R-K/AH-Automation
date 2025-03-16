@@ -1,0 +1,19 @@
+dentalicd1 K14
+dentalicd2 K00
+dentalicd3 K00.7
+dentalicd4 K00.8
+====================Optical===========================================
+opticalicd1 Z46.0
+opticalicd2 Z01.0
+====================Consultation======================================
+consultationicd1 R15
+consultationicd2 A09
+=====================Dialysis=========================================
+dialysisicd1 N22
+dialysisicd2 N00
+=====================Maternity========================================
+maternityicd1 Z00.1
+maternityicd2 P00.8
+====================Pathology=========================================
+pathologyicd1 B02.9
+pathologyicd2 N63

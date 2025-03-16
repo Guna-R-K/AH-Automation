@@ -1,0 +1,14 @@
+browser chrome
+url http://192.168.1.68:8011/HealthInusrance_New/login.html
+username Gunz
+pwd chegus@123
+agent AGENT-00002
+
+
+
+
+Gunz chegus@123
+MDUSER1 Chegus@1234
+anand http://192.168.1.68:8011/HealthInusrance_New/login.html
+sanni http://192.168.1.41:8080/HealthInusrance_New/login.html
+test http://192.168.1.101:8765/HealthInusrance_New/login.html

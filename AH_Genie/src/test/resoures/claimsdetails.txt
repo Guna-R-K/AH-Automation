@@ -1,0 +1,120 @@
+================Common block==================================================
+memberid 3200003243N-1
+op Outpatient Treatment
+
+claimclosedate 05-06-2024
+claimreceiveddate 08-06-2024
+
+grosscharge 50
+grosscharge 80
+
+treamentdate1 05-06-2024
+treamentdate2 05-06-2024
+
+servfee1 50
+servfee2 30
+
+quantity1 5
+quantity2 10
+
+
+=============Shortfall C & D===============================================
+claimclosedatecd 05-06-2024
+claimreceiveddatecd 05-06-2024
+
+grosschargecd 1800
+
+treamentdate1cd 04-06-2024
+treamentdate2cd 05-06-2024
+treamentdate3cd 03-06-2024
+
+servfee1cd 500
+servfee2cd 300
+servfee3cd 1000
+
+quantity1cd 5
+quantity2cd 10
+quantity3cd 1
+
+=============Shortfall E====================================================
+claimclosedateshortE 04-06-2024
+claimreceiveddateshortE 04-06-2024
+
+grosschargeshortE 900
+
+treamentdate1shortE 04-06-2023
+
+servfee1shortE 900
+
+quantity1shortE 5
+===========Shortfall F - Claim Control Totals Mismatch ======================
+claimclosedateshortF 03-06-2024
+claimreceiveddateshortF 03-06-2024
+
+grosschargeshortF 50
+
+treamentdate1shortF 03-06-2024
+
+servfee1shortF 55
+
+quantity1shortF 1
+==============Shortfall G - Claim Dates Mismatch ============================
+claimclosedateshortG 06-06-2024
+claimreceiveddateshortG 06-06-2024
+
+grosschargeshortG 80
+
+treamentdate1shortG 07-06-2024
+treamentdate2shortG 06-06-2024
+
+servfee1shortG 55
+servfee2shortG 25
+
+quantity1shortG 1
+quantity2shortG 1
+==============Shortfall M - Out of Date Claim ===============================
+claimclosedateshortM 03-06-2024
+claimreceiveddateshortM 08-09-2024
+
+grosschargeshortM 20
+
+treamentdate1shortM 03-06-2024
+
+servfee1shortM 20
+
+quantity1shortM 1
+==============Shortfall X Sex Related Tariff ================================
+claimclosedateshortX 03-06-2024
+claimreceiveddateshortX 08-06-2024
+
+grosschargeshortX 20
+
+treamentdate1shortX 03-06-2024
+
+servfee1shortX 20
+
+quantity1shortX 1
+==============Shortfall A5 - Provider Cannot Carry Out Treatment =============
+claimclosedateshortA5 08-05-2024
+claimreceiveddateshortA5 18-06-2024
+
+grosschargeshortA5 20
+
+treamentdate1shortA5 03-05-2024
+
+servfee1shortA5 20
+
+quantity1shortA5 1
+==============Shortfall  - Treatment Requires Refering Provider ===========
+claimclosedateshortA5 08-06-2024
+claimreceiveddateshortA5 18-06-2024
+
+grosschargeshortA5 20
+
+treamentdate1shortA5 03-06-2024
+
+servfee1shortA5 30
+
+quantity1shortA5 1
+
+

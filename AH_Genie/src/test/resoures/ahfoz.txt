@@ -1,0 +1,30 @@
+ahfozdental1 98101
+ahfozdental2 98122
+ahfozdental3 98100
+ahfozdental4 98621
+ahfozdental5 98624
+ahfozdental6 98523
+ahfozdental7 98522
+====================Optical===========================================
+ahfozoptical1 08000
+ahfozoptical2 08002
+ahfozoptical3 08005
+ahfozoptical4 05300
+====================Consultation======================================
+ahfozconsultation1
+ahfozconsultation2
+ahfozconsultation3
+=====================Dialysis=========================================
+ahfozdialysis1
+ahfozdialysis2
+ahfozdialysis3
+=====================Maternity========================================
+ahfozmaternity1
+ahfozmaternity2
+ahfozmaternity3
+====================Pathology=========================================
+ahfozpathology1 83021
+ahfozpathology2 81021
+ahfozpathology3 81051
+==================Zero AHFoZ==========================================
+ahfoz0dental 98110
